@@ -23,7 +23,7 @@ Antes de compilar o ejecutar el proyecto, asegúrate de tener lo siguiente:
 
 ### **1. Clonar el repositorio**
 ```bash
-git clone <URL del repositorio>
+git clone https://github.com/l3nny548/seek.git
 cd cliente
 ```
 
